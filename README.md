@@ -29,3 +29,5 @@ Visit DataScienceBowl.com to:
 <li>Sign up to <a href="https://www.datasciencebowl.com/contact/">receive news</a> about the competition
 <li>Learn about the <a href="https://www.datasciencebowl.com/competitions/">history of the Data Science Bowl</a> and past competitions
 <li>Read our <a href="https://www.datasciencebowl.com/data-science-insights">latest insights</a> on emerging analytics techniques</p>
+
+<img src="https://storage.googleapis.com/kaggle-media/competitions/dsb-2018/dsb.jpg">

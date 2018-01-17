@@ -1,5 +1,6 @@
 # GitHub repository for the Kaggle Data Science Bowl 2018. 
 
+### <strong>ADVISOR(S):</strong> Alan Davis, Mike Kane
 ### <strong>TEAM MEMBERS:</strong> <a href="https://www.makeschool.com/portfolio/kash">Aakash Sudhakar</a>, <a href="https://www.makeschool.com/portfolio/Kaichi-Momose">Kaichi Momose</a>
 ***
 ### <strong>START DATE:</strong> Tuesday, January 16, 2018

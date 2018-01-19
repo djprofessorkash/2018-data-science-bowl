@@ -14,6 +14,3 @@ import scipy as sp
 import seaborn as sb
 import pandas as pd
 import PIL
-
-kaichi = "momose"
-aakash = "sudhakar"

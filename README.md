@@ -1,16 +1,17 @@
 # GitHub repository for the Kaggle Data Science Bowl 2018. 
 
-### <strong>ADVISOR(S):</strong> Alan Davis, Mike Kane
+### <strong>ADVISORS:</strong> Alan Davis, Mike Kane
 ### <strong>TEAM MEMBERS:</strong> <a href="https://www.makeschool.com/portfolio/kash">Aakash Sudhakar</a>, <a href="https://www.makeschool.com/portfolio/Kaichi-Momose">Kaichi Momose</a>, <a>Tassos Lambrou</a>, <a>Christopher Taylor</a>, <a>Justin Sitter</a>
 ***
 ### <strong>START DATE:</strong> Tuesday, January 16, 2018
 ### <strong>END DATE:</strong> Monday, April 16, 2018
 
 ### <strong>TODO:</strong>
-- Finalize Git structure
+- <del>Finalize Git structure</del>
 - Explore realms of: <i>Image Classification</i>, <i>Region Proposal Network</i>, <i>Object Detection</i>
 - Look into optimized systems (GPU vs. CPU)
 - Distribute tasks between members
+- For image classification, pixels are sent to first layer
 
 ***
 <h2 style="text-align: center;"><u>DESCRIPTION</u></h2>

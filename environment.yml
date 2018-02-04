@@ -1,0 +1,7 @@
+name: hello-tensorflow
+dependencies:
+    - python=3.6
+    - jupyter
+    - ipython
+    - pip:
+        - https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.4.1-py3-none-any.whl
